@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:6e23b5a83d39a7bf875f69401274a757:d92f0bbe8baf2fa140f0fc407c6cd43a:778980fd803c420fe3e35041e3fdfd18$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spritesheet_numbers.png" width="529" height="58">
+    <sprite n="text_0.png" x="0" y="0" w="47" h="57"/>
+	
+    <sprite n="text_1.png" x="47" y="0" w="32" h="56"/>
+	
+    <sprite n="text_2.png" x="79" y="0" w="43" h="56"/>
+	
+    <sprite n="text_3.png" x="122" y="0" w="41" h="56"/>
+	
+    <sprite n="text_4.png" x="163" y="0" w="45" h="56"/>
+	
+    <sprite n="text_5.png" x="208" y="0" w="42" h="57"/>
+	
+    <sprite n="text_6.png" x="250" y="0" w="39" h="56"/>
+	
+    <sprite n="text_7.png" x="289" y="0" w="44" h="55"/>
+	
+    <sprite n="text_8.png" x="333" y="0" w="45" h="58"/>
+	
+    <sprite n="text_9.png" x="378" y="0" w="44" h="57"/>
+	
+    <sprite n="text_cross.png" x="422" y="0" w="45" h="46"/>
+	
+    <sprite n="text_dots.png" x="467" y="0" w="23" h="39"/>
+	
+    <sprite n="text_plus.png" x="490" y="0" w="39" h="38"/>
+</TextureAtlas>
+
+
+
+
+
+
+
